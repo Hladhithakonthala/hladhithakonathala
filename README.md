@@ -20,7 +20,22 @@
   <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,git,vscode&theme=dark" />
 </p>
 
----
+## 🎓 Education
+
+### 🎓 Bachelor of Technology (B.Tech) – Information Technology  
+📍 Gayatri Vidya Parishad College of Engineering for Women  
+📅 2024 – 2028  
+
+### 📘 Intermediate (MPC)  
+📍 Sri Chaitanya Junior College  
+📅 2022 – 2024  
+📊 Percentage: 68.9%
+
+### 🏫 SSC  
+📍 Pereria English Noble School  
+📅 2015 – 2022  
+📊 Percentage: 78.9%
+
 
 ## 📊 GitHub Stats
 
