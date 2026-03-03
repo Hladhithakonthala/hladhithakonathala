@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Konathala Hladhitha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Problem+Solver;Full stack developer&center=true&width=500&height=50&color=#4169E1">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Problem+Solver;Full+Stack+Developer&center=true&width=500&height=50&color=4169E1">
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,git,vscode&theme=dark" />
 </p>
 
 ---
@@ -36,4 +36,6 @@
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hladhithakonthala&theme=react-dark" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hladhithakonathala&theme=react-dark" />
+</p>
