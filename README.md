@@ -25,11 +25,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hladhithakonthala&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hladhithakonathala&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hladhithakonthala&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=hladhithakonathala&theme=tokyonight" />
 </p>
 
 ---
