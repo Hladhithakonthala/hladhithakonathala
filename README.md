@@ -1,33 +1,53 @@
-<h1 align="center">Hi 👋, I'm Konathala Hladhitha</h1>
-<h3 align="center">Information Technology Student | Aspiring Software Developer</h3>
+<h1 align="center">Hi 👋 I'm Konathala Hladhitha</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Information+Technology+Student;Aspiring+Software+Developer;Full+Stack+Learner;Python+%7C+Java+%7C+SQL&center=true&width=500&height=50">
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## 💫 About Me
 - 🎓 B.Tech IT Student  
-- 💻 Interested in Software Development  
-- 🌱 Currently learning Full Stack Development  
-- 🚀 Passionate about coding and problem solving  
+- 💻 Passionate about Software Development  
+- 🚀 Exploring Full Stack Technologies  
+- 📚 Strong foundation in Python, Java & Database Concepts  
+- 🌱 Currently improving Data Structures & Web Development  
 
 ---
 
-## 🛠️ Technical Skills
-- Python (Basics, OOP)
-- Java (Basics)
-- SQL (Basics)
-- HTML
-- CSS
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,git,vscode" />
+</p>
 
 ---
 
-## 📌 Project
-### 🏥 Hospital Database Management
-- Built a database to manage patient and appointment details  
-- Used Python and SQL for implementation  
+## 🚀 Featured Project
+
+### 🏥 Hospital Database Management System
+✔ Designed relational database structure  
+✔ Implemented CRUD operations using SQL  
+✔ Integrated Python for backend logic  
+✔ Gained practical real-world data management experience  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hladhithakonathala&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hladhithakonathala&theme=radical" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hladhithakonathala&theme=react-dark" />
 
 ---
 
 ## 📫 Connect With Me
 - 📧 hladhithakonthala@gmail.com
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+- 🔗 https://github.com/hladhithakonathala
